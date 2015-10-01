@@ -1,0 +1,6 @@
+name = Mod menu inverse
+description = This module alter block config format menu
+package = Custom module - Required
+core = 7.x
+version = "1.0"
+datestamp = "1408043349
